@@ -238,7 +238,7 @@ ul li{
 /* CONTATO */
 
 .contato{
-    background: linear-gradient(90deg, #fcfcfc, #f1f1f2 );
+    background-color: #ffffff;
     display: flex;
     max-width: 1440px;
     width: 100%;
